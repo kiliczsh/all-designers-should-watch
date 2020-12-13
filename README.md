@@ -168,5 +168,9 @@ and I wanted to share this list with you, feel free to contribute.
 
     [https://www.youtube.com/watch?v=86x-u-tz0MA](https://www.youtube.com/watch?v=86x-u-tz0MA)
 
+## Contributors
+- [kiliczsh](https://github.com/kiliczsh)
+- [OtterWhisperer](https://github.com/OtterWhisperer)
+
 ---
 [back to contents](#content)
