@@ -10,6 +10,7 @@ and I wanted to share this list with you, feel free to contribute.
 
 - [Podcasts](#podcasts)
 - [Series](#series)
+- [Documentaries](#documentaries)
 - [Videos](#Videos)
     - [Vimeo](#vimeo)
     - [Youtube](#youtube)
@@ -25,6 +26,12 @@ and I wanted to share this list with you, feel free to contribute.
 - Abstract: The Art of Design
 
     [Abstract: The Art of Design (TV Series 2017- ) - IMDb](https://www.imdb.com/title/tt6333098/)
+
+## Documentaries
+
+- Jiro Dreams of Sushi 
+
+    [Jiro Dreams of Sushi (2011) - IMDb](https://www.imdb.com/title/tt1772925/)
 
 ## Videos
 
