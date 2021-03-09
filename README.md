@@ -178,6 +178,7 @@ and I wanted to share this list with you, feel free to contribute.
 ## Contributors
 - [kiliczsh](https://github.com/kiliczsh)
 - [OtterWhisperer](https://github.com/OtterWhisperer)
+- [nagueva](https://github.com/nagueva)
 
 ---
 [back to contents](#content)
